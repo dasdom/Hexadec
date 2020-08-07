@@ -14,11 +14,13 @@ But I needed to click to switch between decimal and hexadecimal.
 
 # Author
 
-Dominik Hauser
-
-[@dasdom](https://twitter.com/dasdom)
+Dominik Hauser ([@dasdom](https://twitter.com/dasdom))
 
 [Blog](https://dasdom.dev)
+
+# My Book
+
+Please check out my [book](https://pragprog.com/titles/dhios/).
 
 # Licence
 
